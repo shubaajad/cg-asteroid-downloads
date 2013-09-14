@@ -3,7 +3,7 @@ cg-asteroid-downloads
 
 Computer Graphics
 ===============================================
-Assignment: MOdeeling and WireFrame Rendering
+Assignment: Modeling and WireFrame Rendering
 ===============================================
 
 Name: Shubaa Jhanani Ayengar Devanathan
